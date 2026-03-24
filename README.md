@@ -70,13 +70,5 @@ Result: 50
 
 ---
 
-## 📈 Next Improvements (Optional)
-- Add more operations (power, square root, etc.)
-- Add error handling (invalid input, division by zero)
-- Build a **GUI version**
-- Create a **web version** with Flask or Django
-
----
-
 ## 📜 License
 This project is open‑source and free to use for learning and experimentation.
