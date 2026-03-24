@@ -53,7 +53,7 @@ cd My-python-calculator
 
 ### 2. Run the Program
 ```bash
-python main.py
+python ex.py
 ```
 
 *(Adjust filename if different)*
